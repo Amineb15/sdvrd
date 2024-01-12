@@ -25,6 +25,16 @@
         font-size: 20px;
     }
 }
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
 a {
     text-decoration: none; /* Remove underline */
     color: inherit; /* Use the parent element's text color */
