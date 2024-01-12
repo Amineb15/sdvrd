@@ -1,0 +1,1763 @@
+.mediaViewInfo {
+	--web-view-name: Index;
+	--web-view-id: Index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial, sans-serif;
+}
+:root {
+	--web-view-ids: Index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+a {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Use the parent element's text color */
+}
+#Index {
+	position: absolute;
+	width: 1920px;
+	height: 6012px;
+	font-family: arial, sans-serif;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Index;
+	--web-view-id: Index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial, sans-serif;
+}
+#TAE2-01 {
+	position: absolute;
+	width: 605px;
+	height: 341px;
+	left: 60px;
+	top: 1119px;
+	overflow: visible;
+}
+#Rectangle_25 {
+	fill: rgba(33,86,133,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 882px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_26 {
+	fill: rgba(13,64,104,1);
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 175px;
+	left: 0px;
+	top: 0px;
+}
+#Accueil {
+	left: 1074px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	cursor: unset;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#A_PREPOS_DE_SDVRD {
+	left: 1212px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Projets {
+	left: 1483px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#CONTACT {
+	left: 1612px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#BIENVENUE {
+	left: 180px;
+	top: 225px;
+	position: absolute;
+	overflow: visible;
+	width: 664px;
+	height: 159px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 120px;
+	color: rgba(255,255,255,1);
+}
+#Ligne_2 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_2 {
+	overflow: visible;
+	position: absolute;
+	width: 95px;
+	height: 3px;
+	left: 1074px;
+	top: 102px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID3994400_arrow_forward_naviga {
+	opacity: 0.617;
+	fill: rgba(248,203,51,1);
+	stroke: rgba(33,86,133,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ID3994400_arrow_forward_naviga {
+	overflow: visible;
+	position: absolute;
+	width: 24.166px;
+	height: 46.597px;
+	transform: matrix(1,0,0,1,29.9168,1769.6137) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_23 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 298px;
+	height: 58px;
+	left: 958px;
+	top: 1752px;
+}
+#Voir_nos_projets {
+	left: 991.595px;
+	top: 1770.912px;
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+#Lentreprise_SDVRD_est_lun_des_ {
+	left: 960px;
+	top: 982px;
+	position: absolute;
+	overflow: visible;
+	width: 848px;
+	height: 220px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Nos_mtiers_sont_avant_tout_des {
+	left: 960px;
+	top: 1205px;
+	position: absolute;
+	overflow: visible;
+	width: 848px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#CHIFFRE_CLES___Date_de_cration {
+	left: 960px;
+	top: 1456px;
+	position: absolute;
+	overflow: visible;
+	width: 848px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+	text-decoration: underline;
+}
+#Guids_par_lexcellence_notre_en_w {
+	left: 310px;
+	top: 2563px;
+	position: absolute;
+	overflow: visible;
+	width: 1301px;
+	height: 132px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Guids_par_lexcellence_notre_en_w {
+	left: 310px;
+	top: 2563px;
+	position: absolute;
+	overflow: visible;
+	width: 1301px;
+	height: 132px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#chre_visiteur_ {
+	left: 181px;
+	top: 378px;
+	position: absolute;
+	overflow: visible;
+	width: 712px;
+	height: 106px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#Ligne_14 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_14 {
+	overflow: visible;
+	position: absolute;
+	width: 699px;
+	height: 5px;
+	left: 180.5px;
+	top: 520.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_15 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_15 {
+	overflow: visible;
+	position: absolute;
+	width: 404px;
+	height: 5px;
+	left: 960.5px;
+	top: 955.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_16 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_16 {
+	overflow: visible;
+	position: absolute;
+	width: 310.032px;
+	height: 7px;
+	left: 310.5px;
+	top: 2545.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#A_PREPOS_DE_SDVRD_ {
+	left: 960px;
+	top: 895px;
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	white-space: nowrap;
+	cursor: unset;
+	text-align: left;
+	font-family: Sakkal Majalla, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Groupe_5 {
+	position: absolute;
+	width: 272px;
+	height: 63.088px;
+	left: 828px;
+	top: 1858.912px;
+	overflow: visible;
+	cursor: unset;
+}
+#Ligne_21 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_21 {
+	overflow: visible;
+	position: absolute;
+	width: 264px;
+	height: 5px;
+	left: 0.5px;
+	top: 63.088px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Nos_Projets {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+#Notre_politique {
+	left: 310px;
+	top: 2487px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Sakkal Majalla, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#architecture-1857175_1920 {
+	position: absolute;
+	width: 645px;
+	height: 462px;
+	left: 0px;
+	top: 1980px;
+	overflow: visible;
+}
+#castle-1998435_1920 {
+	position: absolute;
+	width: 645px;
+	height: 462px;
+	left: 639px;
+	top: 1980px;
+	overflow: visible;
+}
+#staircase-274614_1920 {
+	position: absolute;
+	width: 645px;
+	height: 462px;
+	left: 1275px;
+	top: 1980px;
+	overflow: visible;
+}
+#Rectangle_20_ba {
+	fill: url(#Rectangle_20_ba);
+}
+.Rectangle_20_ba {
+	mix-blend-mode: luminosity;
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 560px;
+	left: 0px;
+	top: 5451px;
+}
+#Contactez-nous {
+	left: 764px;
+	top: 5474px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+#LOGO {
+	position: absolute;
+	width: 406px;
+	height: 105px;
+	left: 160px;
+	top: 35px;
+	overflow: visible;
+	cursor: unset;
+}
+#Lentreprise_SDVRD_est_lun_des__bd {
+	left: 181px;
+	top: 556px;
+	position: absolute;
+	overflow: visible;
+	width: 746px;
+	height: 264px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Ligne_20 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_20 {
+	overflow: visible;
+	position: absolute;
+	width: 389px;
+	height: 5px;
+	left: 769px;
+	top: 5534px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Pour_nous_contacter_veuillez_u {
+	left: 480px;
+	top: 5565px;
+	position: absolute;
+	overflow: visible;
+	width: 962px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#_2023_SDVRDma__CreATION_PAR_AM {
+	left: 658px;
+	top: 5969.75px;
+	position: absolute;
+	overflow: visible;
+	width: 606px;
+	height: 36px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+#Groupe_77 {
+	position: absolute;
+	width: 849px;
+	height: 72px;
+	left: 621px;
+	top: 5617px;
+	overflow: visible;
+}
+#Sige_principal______Bd_Allal_E {
+	left: 67px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 783px;
+	height: 72px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,242,0,1);
+	letter-spacing: 0.5px;
+	text-decoration: underline;
+}
+#Groupe_20 {
+	position: absolute;
+	width: 52.325px;
+	height: 52.325px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_30 {
+	fill: rgba(255,242,0,1);
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 52.325px;
+	height: 52.325px;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_19 {
+	position: absolute;
+	width: 27.728px;
+	height: 39.875px;
+	left: 12.299px;
+	top: 6.225px;
+	overflow: visible;
+}
+#Trac_19 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_19 {
+	overflow: visible;
+	position: absolute;
+	width: 30.728px;
+	height: 42.875px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_20 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_20 {
+	overflow: visible;
+	position: absolute;
+	width: 14.957px;
+	height: 14.957px;
+	left: 7.885px;
+	top: 6.027px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Groupe_184 {
+	position: absolute;
+	width: 849px;
+	height: 72px;
+	left: 621px;
+	top: 5680px;
+	overflow: visible;
+}
+#Groupe_15 {
+	position: absolute;
+	width: 52.325px;
+	height: 52.325px;
+	left: 0px;
+	top: 4px;
+	overflow: visible;
+}
+#Rectangle_29 {
+	fill: rgba(255,242,0,1);
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 52.325px;
+	height: 52.325px;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_14 {
+	position: absolute;
+	width: 31.396px;
+	height: 32.528px;
+	left: 10.464px;
+	top: 9.899px;
+	overflow: visible;
+}
+#Trac_12 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_12 {
+	overflow: visible;
+	position: absolute;
+	width: 30.487px;
+	height: 30.3px;
+	left: 0px;
+	top: 5.445px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_13 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_13 {
+	overflow: visible;
+	position: absolute;
+	width: 11.606px;
+	height: 11.061px;
+	left: 16.143px;
+	top: 7.58px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_14 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_14 {
+	overflow: visible;
+	position: absolute;
+	width: 18.867px;
+	height: 18.641px;
+	left: 15.692px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tlphone_______212_05__24__29__ {
+	left: 67px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 783px;
+	height: 72px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,242,0,1);
+	letter-spacing: 0.5px;
+	text-decoration: underline;
+}
+#Groupe_186 {
+	position: absolute;
+	width: 851px;
+	height: 72px;
+	left: 621px;
+	top: 5751px;
+	overflow: visible;
+}
+#Groupe_185 {
+	position: absolute;
+	width: 851px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_182 {
+	position: absolute;
+	width: 52.325px;
+	height: 52.325px;
+	left: 0px;
+	top: 7px;
+	overflow: visible;
+}
+#Rectangle_67 {
+	fill: rgba(255,242,0,1);
+}
+.Rectangle_67 {
+	position: absolute;
+	overflow: visible;
+	width: 52.325px;
+	height: 52.325px;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_181 {
+	position: absolute;
+	width: 37.88px;
+	height: 28.938px;
+	left: 7.223px;
+	top: 11.694px;
+	overflow: visible;
+}
+#Groupe_130 {
+	position: absolute;
+	width: 37.88px;
+	height: 28.937px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_129 {
+	position: absolute;
+	width: 37.88px;
+	height: 28.937px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trac_272 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_272 {
+	overflow: visible;
+	position: absolute;
+	width: 42.88px;
+	height: 21.752px;
+	left: 0px;
+	top: 12.186px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_49 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 19.657px;
+	height: 9.251px;
+	left: 9.486px;
+	top: 19.686px;
+}
+#Trac_196 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_196 {
+	overflow: visible;
+	position: absolute;
+	width: 21.753px;
+	height: 13.788px;
+	left: 8.501px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_197 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_197 {
+	overflow: visible;
+	position: absolute;
+	width: 16.251px;
+	height: 1.75px;
+	left: 11.095px;
+	top: 21.186px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_198 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_198 {
+	overflow: visible;
+	position: absolute;
+	width: 16.251px;
+	height: 1.75px;
+	left: 11.095px;
+	top: 23.061px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_199 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_199 {
+	overflow: visible;
+	position: absolute;
+	width: 16.251px;
+	height: 1.75px;
+	left: 11.095px;
+	top: 24.937px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_200 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_200 {
+	overflow: visible;
+	position: absolute;
+	width: 16.251px;
+	height: 1.75px;
+	left: 11.095px;
+	top: 26.437px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fax_______212_05__24__31__32__ {
+	left: 69px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 783px;
+	height: 72px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,242,0,1);
+	letter-spacing: 0.5px;
+	text-decoration: underline;
+}
+#Groupe_188 {
+	position: absolute;
+	width: 842.163px;
+	height: 72px;
+	left: 623.837px;
+	top: 5826px;
+	overflow: visible;
+}
+#Groupe_187 {
+	position: absolute;
+	width: 842.163px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#E-mail______contactsdvrdma__sd {
+	left: 60.163px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 783px;
+	height: 72px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,242,0,1);
+	letter-spacing: 0.5px;
+	text-decoration: underline;
+}
+#Groupe_183 {
+	position: absolute;
+	width: 52.325px;
+	height: 52.325px;
+	left: 0px;
+	top: 6.499px;
+	overflow: visible;
+}
+#Rectangle_36 {
+	fill: rgba(255,242,0,1);
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 52.325px;
+	height: 52.325px;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_46 {
+	position: absolute;
+	width: 32.088px;
+	height: 22.371px;
+	left: 10.119px;
+	top: 14.977px;
+	overflow: visible;
+}
+#Rectangle_37 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 35.088px;
+	height: 25.371px;
+	left: 0px;
+	top: 0px;
+}
+#Trac_56 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_56 {
+	overflow: visible;
+	position: absolute;
+	width: 30.72px;
+	height: 12.624px;
+	left: 2.746px;
+	top: 2.146px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#DOUJA01 {
+	position: absolute;
+	width: 311px;
+	height: 232px;
+	left: 587px;
+	top: 897px;
+	overflow: visible;
+}
+#Engin02 {
+	position: absolute;
+	width: 371px;
+	height: 279px;
+	left: 263px;
+	top: 907px;
+	overflow: visible;
+}
+#Engin01 {
+	position: absolute;
+	width: 285px;
+	height: 212px;
+	left: 60px;
+	top: 907px;
+	overflow: visible;
+}
+#Engin01_cm {
+	position: absolute;
+	width: 285px;
+	height: 212px;
+	left: 1026px;
+	top: 609px;
+	overflow: visible;
+}
+#TAE1-01 {
+	position: absolute;
+	width: 291px;
+	height: 218px;
+	left: 597px;
+	top: 1102px;
+	overflow: visible;
+}
+#TAE2-03 {
+	position: absolute;
+	width: 402px;
+	height: 302px;
+	left: 466px;
+	top: 1302px;
+	overflow: visible;
+}
+#DOUJA03 {
+	position: absolute;
+	width: 449px;
+	height: 335px;
+	left: 42px;
+	top: 1453px;
+	overflow: visible;
+}
+#DOUJA03_cq {
+	position: absolute;
+	width: 449px;
+	height: 335px;
+	left: 1354px;
+	top: 517px;
+	overflow: visible;
+}
+#Engin03 {
+	position: absolute;
+	width: 809px;
+	height: 332px;
+	left: 1025px;
+	top: 249px;
+	overflow: visible;
+}
+#DH01 {
+	position: absolute;
+	width: 408px;
+	height: 305px;
+	left: 484px;
+	top: 1518px;
+	overflow: visible;
+}
+#ID3994400_arrow_forward_naviga_ct {
+	opacity: 0.617;
+	fill: rgba(248,203,51,1);
+	stroke: rgba(33,86,133,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ID3994400_arrow_forward_naviga_ct {
+	overflow: visible;
+	position: absolute;
+	width: 24.166px;
+	height: 46.597px;
+	transform: matrix(1,0,0,1,55.9169,5382.7016) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID3994400_arrow_forward_naviga_cu {
+	opacity: 0.617;
+	fill: rgba(248,203,51,1);
+	stroke: rgba(33,86,133,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ID3994400_arrow_forward_naviga_cu {
+	overflow: visible;
+	position: absolute;
+	width: 24.166px;
+	height: 46.597px;
+	transform: matrix(1,0,0,1,55.9169,5864.7016) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_204 {
+	position: absolute;
+	width: 1664px;
+	height: 443.412px;
+	left: 138.5px;
+	top: 2710.5px;
+	overflow: visible;
+}
+#Travaux_damnagement_extrieur__ {
+	left: 17.5px;
+	top: 68px;
+	position: absolute;
+	overflow: visible;
+	width: 683px;
+	height: 238px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Travaux_damnagement_extrieur_2 {
+	left: 17.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 683px;
+	height: 51.5px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+#Ligne_28 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_28 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 443px;
+	left: 0px;
+	top: 0.412px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_34 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_34 {
+	overflow: visible;
+	position: absolute;
+	width: 1646px;
+	height: 5px;
+	left: 18px;
+	top: 203.412px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#TAE2-01_c {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 17.5px;
+	top: 218.912px;
+	overflow: visible;
+}
+#TAE2-01_da {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 433.5px;
+	top: 218.912px;
+	overflow: visible;
+}
+#TAE2-01_db {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 849.5px;
+	top: 218.912px;
+	overflow: visible;
+}
+#TAE2-01_dc {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 1265.5px;
+	top: 218.912px;
+	overflow: visible;
+}
+#Groupe_205 {
+	position: absolute;
+	width: 1664px;
+	height: 450.912px;
+	left: 138.5px;
+	top: 3211.912px;
+	overflow: visible;
+}
+#Ligne_28_c {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_28_c {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 442.588px;
+	left: 0px;
+	top: 8.324px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_34_c {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_34_c {
+	overflow: visible;
+	position: absolute;
+	width: 1646px;
+	height: 5px;
+	left: 18px;
+	top: 211.324px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#TAE2-01_dd {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 17.5px;
+	top: 226.824px;
+	overflow: visible;
+}
+#Travaux_damnagement_extrieur___c {
+	left: 26px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 683px;
+	height: 253px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Travaux_damnagement_extrieur_1 {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 683px;
+	height: 51.5px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+#Groupe_206 {
+	position: absolute;
+	width: 1664px;
+	height: 375.5px;
+	left: 138.5px;
+	top: 3720.824px;
+	overflow: visible;
+}
+#Ligne_28_db {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_28_db {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 372.588px;
+	left: 0px;
+	top: 2.912px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_34_dc {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_34_dc {
+	overflow: visible;
+	position: absolute;
+	width: 1646px;
+	height: 5px;
+	left: 18px;
+	top: 135.912px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#TAE2-01_de {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 17.5px;
+	top: 151.412px;
+	overflow: visible;
+}
+#TAE2-01_df {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 433.5px;
+	top: 151.412px;
+	overflow: visible;
+}
+#TAE2-01_dg {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 849.5px;
+	top: 151.412px;
+	overflow: visible;
+}
+#En_2012_Dans_le_cadre_de_nos_s {
+	left: 26px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 1572px;
+	height: 76px;
+	line-height: 30px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Travaux_damnagement_DOUNIA_HOT {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1099px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+#Groupe_207 {
+	position: absolute;
+	width: 1664px;
+	height: 383.412px;
+	left: 138.5px;
+	top: 4154.324px;
+	overflow: visible;
+}
+#Ligne_35 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_35 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 383px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_36 {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_36 {
+	overflow: visible;
+	position: absolute;
+	width: 1646px;
+	height: 5px;
+	left: 18px;
+	top: 143.912px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#TAE2-01_dl {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 17.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#TAE2-01_dm {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 433.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#TAE2-01_dn {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 849.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#TAE2-01_do {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 1265.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#En_2012_Dans_le_cadre_de_nos_s_dp {
+	left: 23px;
+	top: 61.088px;
+	position: absolute;
+	overflow: visible;
+	width: 1623px;
+	height: 75px;
+	line-height: 30px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Travaux_damnagement_DOUJA {
+	left: 23px;
+	top: 0.088px;
+	position: absolute;
+	overflow: visible;
+	width: 683px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+#Groupe_208 {
+	position: absolute;
+	width: 1664px;
+	height: 383.412px;
+	left: 138.5px;
+	top: 4595.736px;
+	overflow: visible;
+}
+#Ligne_35_ds {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_35_ds {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 383px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_36_dt {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_36_dt {
+	overflow: visible;
+	position: absolute;
+	width: 1646px;
+	height: 5px;
+	left: 18px;
+	top: 143.912px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#TAE2-01_du {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 17.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#TAE2-01_dv {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 433.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#TAE2-01_dw {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 849.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#En_2012_Dans_le_cadre_de_nos_s_dx {
+	left: 23px;
+	top: 61.088px;
+	position: absolute;
+	overflow: visible;
+	width: 1623px;
+	height: 75px;
+	line-height: 30px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Travaux_damnagement_LES_JARDIN {
+	left: 23px;
+	top: 0.088px;
+	position: absolute;
+	overflow: visible;
+	width: 1414px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+#Groupe_209 {
+	position: absolute;
+	width: 1664px;
+	height: 383.412px;
+	left: 138.5px;
+	top: 5037.148px;
+	overflow: visible;
+}
+#Ligne_35_d {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_35_d {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 383px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_36_d {
+	fill: transparent;
+	stroke: rgba(248,203,51,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_36_d {
+	overflow: visible;
+	position: absolute;
+	width: 1646px;
+	height: 5px;
+	left: 18px;
+	top: 143.912px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#TAE2-01_d {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 17.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#TAE2-01_ea {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 433.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#TAE2-01_eb {
+	position: absolute;
+	width: 398px;
+	height: 224px;
+	left: 849.5px;
+	top: 159.412px;
+	overflow: visible;
+}
+#En_2012_Dans_le_cadre_de_nos_s_d {
+	left: 23px;
+	top: 61.088px;
+	position: absolute;
+	overflow: visible;
+	width: 1623px;
+	height: 75px;
+	line-height: 30px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Travaux_damnagement_IMMOLOG {
+	left: 23px;
+	top: 0.088px;
+	position: absolute;
+	overflow: visible;
+	width: 1414px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI, arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
