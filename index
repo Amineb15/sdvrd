@@ -9,7 +9,7 @@
 <script id="applicationScript" type="text/javascript" src="js/script.js"></script>
 </head>
 <body>
-<div id="Index">
+<div id="Index.html">
 	<img id="TAE2-01" src="img/TAE2-01.png" srcset="img/TAE2-01.png 1x, img/TAE2-01@2x.png 2x">
 		
 	<svg class="Rectangle_25">
